@@ -1,7 +1,7 @@
 # Sub-Web-Modify
 
 <div align="center">
-  <h3>🚀 全网最美观的订阅转换前端界面</h3>
+  <h3>🚀 全网最帅的订阅转换前端界面</h3>
   <p>基于 Vue.js 开发的现代化订阅转换 Web 前端</p>
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
